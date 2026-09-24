@@ -1,3 +1,5 @@
+**Harness Agent using deepseek-v4-pro + max thinking.**
+
 # Code-Change Tracking — 5 Tools Applied to `master@{10day}...master@{7day}`
 
 **Window resolved:** GitHub's `master@{10day}` = commit `c291e796` (2026-09-10T22:17:09+08:00, the `release-0.1.5-sync-master` merge; root version `0.1.5-rc.2`); `master@{7day}` = `ddefc45f` (2026-09-17T21:19:19+08:00, `Merge pull request #4469 … release-dsh-0.1.6-alpha.2`; root version `0.1.6-alpha.2`).
