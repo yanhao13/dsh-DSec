@@ -1,0 +1,6 @@
+{
+  "type": "minor",
+  "comment": "feat(dsh): advance to 0.1.6-alpha.2",
+  "packageName": "@deepseek-ai/dsh",
+  "email": "agents@deepseek-ai.dev"
+}
