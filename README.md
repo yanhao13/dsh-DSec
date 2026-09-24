@@ -1,2 +1,1 @@
-# CS184
-Berkeley COMPSCI 184 Foundations of Computer Graphics, Instructor: [Ren Ng](https://vcresearch.berkeley.edu/faculty/ren-ng)
+**Harness Agent using deepseek-v4.1-flash + max thinking.**
