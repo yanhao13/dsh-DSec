@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dsec"
+version = "0.1.0"
+description = "Reference implementation of DeepSeek Elastic Compute (DSec), the sandbox infrastructure for agentic training at scale (arXiv:2609.22978)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "DSec reference implementation" }]
+keywords = ["sandbox", "agentic", "reinforcement-learning", "containers", "microvm", "erofs"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: System :: Distributed Computing",
+]
+
+[tool.setuptools]
+packages = [
+    "dsec",
+    "dsec.backends",
+    "dsec.layers",
+    "dsec.resources",
+    "dsec.rl",
+    "dsec.storage",
+]
